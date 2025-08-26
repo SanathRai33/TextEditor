@@ -33,6 +33,10 @@ It allows users to **create, edit, format, and style text documents** directly i
   - Add hyperlinks / remove hyperlinks
   - Insert code view (HTML)
 
+- **Export as support**
+  - DOCX
+  - PDF
+
 ---
 
 ## 🛠️ Tech Stack
@@ -75,7 +79,6 @@ TextEditor/
 
 * Add **Dark Mode** 🌙
 * Add **Keyboard Shortcuts** (Ctrl + B for Bold, etc.)
-* Add **Export to PDF / DOCX** support
 * Add **Autosave** functionality
 
 ---
@@ -104,4 +107,4 @@ This project is licensed under the **MIT License**.
 📧 [sanathrai03@gmail.com](mailto:sanathrai03@gmail.com)
 🌐 [GitHub](https://github.com/SanathRai33)
 
-```
+---
