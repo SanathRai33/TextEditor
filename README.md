@@ -59,6 +59,13 @@ TextEditor/
 
 ---
 
+## 📸 Preview
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/043788fe-71c8-4fdc-b273-75859a3d887f" />
+
+**[Live demo](https://sanathrai33.github.io/TextEditor/)** 
+
+---
+
 ## ⚡ How to Use
 1. Clone the repository:
    ```bash
@@ -106,5 +113,6 @@ This project is licensed under the **MIT License**.
 **Sanath Rai**
 📧 [sanathrai03@gmail.com](mailto:sanathrai03@gmail.com)
 🌐 [GitHub](https://github.com/SanathRai33)
+🔗 [Live Demo](https://sanathrai33.github.io/TextEditor/)
 
 ---
