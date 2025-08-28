@@ -60,7 +60,7 @@ TextEditor/
 ---
 
 ## 📸 Preview
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/043788fe-71c8-4fdc-b273-75859a3d887f" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/a0b3d5d3-8eaa-47f9-87a5-30fe542b60c9" />
 
 **[Live demo](https://sanathrai33.github.io/TextEditor/)** 
 
